@@ -1,0 +1,17 @@
+.text-light-1{
+    color: #fff;
+}
+.text-light-2{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.text-dark-1{
+    color: #333;
+}
+
+.bg-color-primary{
+    background-color: #5F59F7;
+}
+.bg-color-secondary{
+    background-color: #343090;
+}
